@@ -3,7 +3,7 @@ A simple action that triggers a deployment on [Envoyer](https://envoyer.io).
 
 ## Example
 ```yaml
-uses: httpoz/envoyer-action@v1.1.0
+uses: httpoz/envoyer-action@v1.0.0
 with:
   branch: "main"
   projectId: 12345
